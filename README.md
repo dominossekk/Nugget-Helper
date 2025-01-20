@@ -7,4 +7,4 @@ Change log :
 - Deleted experimental options
 - Added device info menu (not available until update 1.2)
 - Added Tweak helper (also not available)
--Added update function 
+- Added update function (not working, but it will work in 1.2 btw)
