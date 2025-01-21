@@ -1,10 +1,7 @@
-Link for update 1.1 ✅ - https://www.icloud.com/shortcuts/cb9a3b60ceec4e8481d8a7613ba69c28
+Link to update 1.2 ✅ : https://www.icloud.com/shortcuts/edd7d952d78a4ba9845187a74978cb07
 
 Change log :
-- Removed automatic device support checker (maybe will be added in the future)
-- Added Emoji's to the options in menu/alerts/text
-- Changed the name from "nugget support checker" to "Nugget Helper"
-- Deleted experimental options
-- Added device info menu (not available until update 1.2)
-- Added Tweak helper (also not available)
-- Added update function (not working, but it will work in 1.2 btw)
+- Device info now works!
+- Shortcut optimization
+- Added battery information (not working for now)
+- Added blocking ios updates
