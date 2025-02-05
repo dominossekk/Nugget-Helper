@@ -1,7 +1,5 @@
-Link to update 1.2 ✅ : https://www.icloud.com/shortcuts/edd7d952d78a4ba9845187a74978cb07
+Link to update 1.3 ✅ : https://www.icloud.com/shortcuts/21de394740834f7389860c592bb864eb
 
 Change log :
-- Device info now works!
-- Shortcut optimization
-- Added battery information (not working for now)
-- Added blocking ios updates
+- Added automatic support check
+- Added another useless options that will be available in next update 
