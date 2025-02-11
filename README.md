@@ -8,4 +8,4 @@ Change log :
 - Added experimental features (not realeted to nugget)
 - Added function to check if your nugget helper is the latest version 
 
-(dont make an issue that half of the features dosent work)
+(dont make an issue that most of the features dosent work)
