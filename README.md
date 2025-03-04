@@ -1,11 +1,10 @@
-Link to update 1.4 beta 1 ✅ : https://www.icloud.com/shortcuts/edf416ffbfb44f55845e9c59a3375f5b
+Link (1.4 beta 2) : https://www.icloud.com/shortcuts/a2548aa0a5334218ad3dded1512ad780
 
 Change log :
 
-- Deleted open Nugget Mobile option
-- Added Check ipsw signing status
-- Changed tweak helper to help
-- Added experimental features (not realeted to nugget)
-- Added function to check if your nugget helper is the latest version 
+- update function fixed (still dosent work)
+- auto restart (suggested by trynix)
+- added lemin mode 
+- deleted battery information
 
-(dont make an issue that most of the features dosent work)
+(there will be no beta 3, i will just make final version and add more features than another beta) 
