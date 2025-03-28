@@ -1,10 +1,10 @@
-Link (1.4 beta 2) : https://www.icloud.com/shortcuts/a2548aa0a5334218ad3dded1512ad780
+Link 1.4 Release : https://www.icloud.com/shortcuts/8cd54289adef4e9db0e90c1010f26f4f
 
 Change log :
 
-- update function fixed (still dosent work)
-- auto restart (suggested by trynix)
-- added lemin mode 
-- deleted battery information
-
-(there will be no beta 3, i will just make final version and add more features than another beta) 
+- Added part of FAQ
+- Deleted update option
+- Deleted check ipsw signing status (too useless and hard to make)
+- Fixed bugs
+- Deleted lemin mode beacuse they removed my image host
+-Added option to disable find my
